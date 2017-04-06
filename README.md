@@ -1,2 +1,2 @@
-# scout24-tech-challenge
+# tech-challenge
 A small tech challenge
